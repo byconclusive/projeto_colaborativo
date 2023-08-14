@@ -4,3 +4,5 @@ git config user.name NOME
 git config user.email EMAIL 
 git add --all
 git commit -m "Descrição do commit"
+git branch NOME-DA-BRANCH
+git checkout NOME-DA-BRANCH
