@@ -1,3 +1,9 @@
 Olá mundo!
 
 Novas descrição! 
+
+git add .
+
+git commit -m "Novo Texto"
+
+git push -u origin  master
