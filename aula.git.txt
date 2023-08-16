@@ -1,6 +1,3 @@
 teste de commit.
-<<<<<<< HEAD
 FRASE ESCRITA ANTES
-=======
 frase no branch
->>>>>>> nova-branch
